@@ -1,0 +1,13 @@
+.all{
+    display:flex;
+    height:70vh;
+    flex-direction: column;
+    align-items: center;
+    
+}
+.art-container{
+    border: 2px black;
+}
+.jobcontainer{
+    width:691px;
+}
