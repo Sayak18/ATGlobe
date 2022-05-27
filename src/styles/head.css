@@ -4,8 +4,8 @@
 }
 .head{
     height:15vh;
-    min-height: 20px;
-    min-width: 660px;
+    min-height: 38px;
+    min-width: 290px;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
