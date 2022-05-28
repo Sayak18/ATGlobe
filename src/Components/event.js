@@ -5,7 +5,7 @@ const Event = () => {
   return (
     <div className="art-contain">
       <h1>Meetup</h1>
-      <img src={cp} alt="display picture" />
+      <img src={cp} className="meet-img" alt="display picture" />
       <div className="caption">
         Finance & Investment Elite Social Mixer @Lujiazui
       </div>
@@ -13,7 +13,7 @@ const Event = () => {
         <span className="date">Fri, 12 Oct, 2018</span>
         <span className="loacation">Ahmedabad, India</span>
       </div>
-      <button>Visit Website</button>
+      <button className="btn-vi">Visit Website</button>
       <div className="author">
         <span>
           <img src={dp} />

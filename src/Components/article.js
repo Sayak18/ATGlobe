@@ -5,7 +5,7 @@ const Article = () => {
   return (
     <div className="art-contain">
       <h1>Article</h1>
-      <img src={cp} alt="display picture" />
+      <img src={cp} className="meet-img" alt="display picture" />
       <div className="caption">
         What if famous brands had regular fonts?Meet RegulaBrands!
       </div>

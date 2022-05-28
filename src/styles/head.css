@@ -2,52 +2,6 @@
     padding:0;
     margin:0;
 }
-.head{
-    height:15vh;
-    min-height: 38px;
-    min-width: 290px;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-}
-.logo{
-    padding: 0 71px 0 71px;
-}
-.right{
-    padding:0 79px 0 79px;
-}
-.search input{
-    width:360px;
-    min-width: 200px;
-    height: 24px;;
-    border-radius: 21px;
-    border: 0;
-    background-color: rgba(242, 242, 242, 1);   
-}
-.placeholder{
-    position: absolute;
-    top:0;
-}
-.search-logo{
-   position: relative;
-   top:2px;
-   right:10px
-}
-
-.black{
-    color:black;
-    font-size: 25.6px;
-}
-.blue{
-    color:blue;
-}
-.green{
-    font-size: 25.6px;
-    color: rgba(39, 163, 101, 1);
-}
-.head-btn{
-    position: relative;
-    background-color: white;
-    border: none;
-    bottom: 2px;
+.me-2{
+    width:370px;
 }
